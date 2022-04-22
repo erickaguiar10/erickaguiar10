@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @erickaguiar10
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-erickaguiar10/erickaguiar10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently studying Computer Science
+- 🌱 I’m currently learning Object-oriented programming and Data Structures
+- 🔥 I'm 20yo
