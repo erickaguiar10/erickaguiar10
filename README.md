@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying Computer Science
 - 🌱 I’m currently learning Object-oriented programming and Data Structures
-- 🔥 I'm 20yo
+- 🔥 I'm 21yo
 
 <div align="center">
   <a href="https://github.com/erickaguiar10">
