@@ -1,7 +1,7 @@
 # Whatssup??
 
 - 🔭 I’m currently studying Computer Science
-- 🔥 I'm 21yo
+- 🔥 I'm 23yo
 
 <div align="center">
   <a href="https://github.com/erickaguiar10">
